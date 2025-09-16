@@ -1,0 +1,56 @@
+@charset "utf-8";
+.container-fluid .container h1 {
+	text-align: left;
+	font-family: time new roman;
+	font-size: 50px;
+}
+
+.container-fluid .container h2 {
+	font-family: time new roams;
+	font-size: 30px;
+	text-align: center;
+}
+.container-fluid .container p {
+	text-align: center;
+	color: orange;
+}
+.container-fluid .container h3 {
+	text-align: center;
+	color: green;
+}
+
+
+
+.container-fluid .container p {
+	font-family: time new roams;
+}
+.container-fluid .container p {
+	color: inherit;
+}
+
+
+.container-fluid .container h1 {
+	text-align: center;
+}
+.container-fluid .container h1 {
+	color: green;
+}
+#collapseTwo1 .card-body h4 {
+	color: green;
+	font-size: 18px;
+}
+.card #collapseOne1 .card-body {
+	font-size: 25px;
+}
+#headingOne1 .mb-0 a {
+	font-size: 24px;
+}
+#headingTwo1 .mb-0 .collapsed {
+	font-size: 18px;
+}
+
+
+
+#collapseTwo1 .card-body h5 {
+	font-size: 18px;
+}

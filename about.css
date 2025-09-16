@@ -1,0 +1,24 @@
+@charset "utf-8";
+.container-fluid .container p {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-align: center;
+}
+.container .row .col-lg-6 {
+	color: rgba(255,248,248,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.container-fluid .container ul {
+	color: #FFFFFF;
+	text-align: left;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.container-fluid .container h4 {
+	color: rgba(140,225,214,1.00);
+	text-align: center;
+}
+.container-fluid .container article {
+	color: rgba(255,255,255,1.00);
+	font-weight: bolder;
+}

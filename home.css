@@ -1,0 +1,70 @@
+@charset "utf-8";
+.container-fluid {
+	background-image: -webkit-linear-gradient(270deg,rgba(6,184,22,1.00) 0%,rgba(12,129,95,1.00) 25.08%,rgba(5,104,106,1.00) 53.68%,rgba(12,76,136,1.00) 78.55%,rgba(4,53,205,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(6,184,22,1.00) 0%,rgba(12,129,95,1.00) 25.08%,rgba(5,104,106,1.00) 53.68%,rgba(12,76,136,1.00) 78.55%,rgba(4,53,205,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(6,184,22,1.00) 0%,rgba(12,129,95,1.00) 25.08%,rgba(5,104,106,1.00) 53.68%,rgba(12,76,136,1.00) 78.55%,rgba(4,53,205,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(6,184,22,1.00) 0%,rgba(12,129,95,1.00) 25.08%,rgba(5,104,106,1.00) 53.68%,rgba(12,76,136,1.00) 78.55%,rgba(4,53,205,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+	background-image: -webkit-linear-gradient(270deg,rgba(90,116,197,1.00) 0%,rgba(255,255,255,1.00) 32.96%,rgba(255,255,255,1.00) 65.70%,rgba(134,216,167,1.00) 100%,rgba(123,206,147,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(90,116,197,1.00) 0%,rgba(255,255,255,1.00) 32.96%,rgba(255,255,255,1.00) 65.70%,rgba(134,216,167,1.00) 100%,rgba(123,206,147,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(90,116,197,1.00) 0%,rgba(255,255,255,1.00) 32.96%,rgba(255,255,255,1.00) 65.70%,rgba(134,216,167,1.00) 100%,rgba(123,206,147,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(90,116,197,1.00) 0%,rgba(255,255,255,1.00) 32.96%,rgba(255,255,255,1.00) 65.70%,rgba(134,216,167,1.00) 100%,rgba(123,206,147,1.00) 100%);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+	color: #064E07;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: italic;
+	font-size: x-large;
+	font-variant: normal;
+	font-weight: bolder;
+}
+.carousel-item.active .carousel-caption h5 {
+	color: #FFFFFF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.carousel-item.active .carousel-caption p {
+	color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-variant: normal;
+	font-weight: bold;
+}
+.container-fluid .container h1 {
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bolder;
+	font-size: 250%;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.container-fluid .container h3 {
+	color: rgba(184,235,240,1.00);
+	text-align: center;
+}
+.container-fluid .container h4 {
+}
+
+
+.container-fluid .container .row {
+	color: #57E3E9;
+}
+.container .row .col-lg-6 {
+	color: rgba(255,255,255,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.container {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+	color: rgba(19,144,222,1.00);
+}
+.container-fluid .container h1 {
+	color: rgba(67,220,189,1.00);
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+	color: rgba(19,144,222,1.00);
+}
